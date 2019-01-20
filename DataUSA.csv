@@ -1,0 +1,274 @@
+ProjectType,DigesterType,Cattle,Dairy,Poultry,Swine,CattleAmount,DairyAmount,PoultryAmount,SwineAmount,Codigestion,CodigestionFW,ElectricitykWhyr,EmissionRedMetricTpy
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,8400,0,0,,4002
+Farm Scale,Covered Lagoon,0,1,0,0,0,15000,0,0,0,0,5256000,138971
+Farm Scale,Covered Lagoon,0,1,0,0,0,4000,0,0,0,0,4467600,39353
+Farm Scale,Covered Lagoon,0,1,0,0,0,15500,0,0,0,0,16206000,108050
+Farm Scale,Covered Lagoon,0,1,0,0,0,1700,0,0,0,0,4204800,15014
+Farm Scale,Covered Lagoon,0,1,0,0,0,9700,0,0,0,0,7600000,82693
+Multiple Farm/Facility,Covered Lagoon,0,1,0,0,0,7000,0,0,0,0,6700000,60585
+Farm Scale,Complete Mix,0,1,0,0,0,1700,0,0,1,0,1830000,13204
+Farm Scale,Covered Lagoon,0,1,0,0,0,7000,0,0,0,0,7600000,61258
+Farm Scale,Covered Lagoon,0,1,0,0,0,400,0,0,1,0,,3611
+Farm Scale,Covered Lagoon,0,1,0,0,0,3213,0,0,0,0,2233800,19540
+Farm Scale,Covered Lagoon,0,1,0,0,0,3000,0,0,0,0,,23817
+Farm Scale,Covered Lagoon,0,1,0,0,0,5000,0,0,1,0,,42149
+Farm Scale,Complete Mix,0,1,0,0,0,2513,0,0,1,0,3324000,9528
+Farm Scale,Covered Lagoon,0,1,0,0,0,4000,0,0,0,0,,36238
+Farm Scale,Covered Lagoon,0,1,0,0,0,1500,0,0,0,0,5072040,10820
+Farm Scale,Covered Lagoon,0,1,0,0,0,4000,0,0,0,0,6400000,36544
+Farm Scale,Covered Lagoon,0,1,0,0,0,8000,0,0,0,0,,69115
+Centralized/Regional,Mixed Plug Flow,0,1,0,0,0,2500,0,0,0,0,,19792
+Farm Scale,Covered Lagoon,0,1,0,0,0,2500,0,0,0,0,,19847
+Farm Scale,Covered Lagoon,0,1,0,0,0,417,0,0,1,0,345600,3086
+Farm Scale,Covered Lagoon,0,1,0,0,0,2500,0,0,0,0,5439007,23916
+Farm Scale,Covered Lagoon,0,1,0,0,0,700,0,0,0,0,,2522
+Farm Scale,Covered Lagoon,0,1,0,0,0,1810,0,0,0,0,2190000,12753
+Farm Scale,Covered Lagoon,0,1,0,0,0,14500,0,0,0,0,7600000,42129
+Farm Scale,Covered Lagoon,0,1,0,0,0,4800,0,0,0,0,4800000,41698
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,11000,0,0,0,2546
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,250,0,0,0,0,,2148
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,5000,0,0,0,0,7446000,36749
+Farm Scale,Unknown or Unspecified,0,1,0,0,0,700,0,0,0,0,,6015
+Farm Scale,Mixed Plug Flow,1,0,0,0,5000,0,0,0,0,0,4467600,12852
+Research,Fixed Film,0,1,0,0,0,500,0,0,0,0,,4951
+Research,Unknown or Unspecified,0,0,0,1,0,0,0,200,0,0,,110
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1135,0,0,0,0,263840,9518
+Farm Scale,Complete Mix,1,0,0,0,4890,0,0,0,1,0,7446000,17958
+Farm Scale,Mixed Plug Flow,1,0,0,0,4000,0,0,0,1,0,20953920,19273
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,6000,0,0,,2560
+Farm Scale,Mixed Plug Flow,1,0,0,1,5000,0,0,8000,1,0,5000000,8829
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,700,0,0,0,0,876000,2549
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,15000,0,0,0,0,37054800,142199
+Multiple Farm/Facility,Complete Mix,0,1,0,0,0,8900,0,0,0,0,15550000,79556
+Farm Scale,Complete Mix,0,1,0,0,0,7200,0,0,0,0,12000000,63926
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,4700,0,0,1,0,9500000,42977
+Farm Scale,Complete Mix,0,1,0,0,0,10000,0,0,0,0,,85283
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,10000,0,0,0,0,18527400,90179
+Farm Scale,Complete Mix,0,1,0,0,0,5500,0,0,0,0,12658200,51445
+Farm Scale,Complete Mix,0,1,0,0,0,3300,0,0,0,0,,34150
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,17800,0,0,315360,3278
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,1400,0,0,1,1,1524240,11448
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,850,0,0,0,0,1533000,3626
+Farm Scale,Mixed Plug Flow,1,0,0,1,4500,0,0,1600,1,0,70364700,57004
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3600,0,0,0,0,7818300,33094
+Farm Scale,Vertical Plug Flow,0,1,0,0,0,3000,0,0,0,0,5212200,12169
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,9000,0,0,0,0,7818300,30659
+Centralized/Regional,Mixed Plug Flow,0,1,0,0,0,1500,0,0,1,1,,22813
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3750,0,0,0,0,5956800,14794
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3500,0,0,0,0,7073700,31780
+Farm Scale,Complete Mix,0,1,0,0,0,2100,0,0,1,0,7446000,21463
+Centralized/Regional,Complete Mix,1,0,0,1,300,0,0,8000,0,0,7885314,7488
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,7000,0,0,0,0,,52976
+Centralized/Regional,Complete Mix,1,0,0,0,30000,0,0,0,1,0,,13858
+Farm Scale,Unknown or Unspecified,0,0,1,0,0,0,160000,0,1,1,3300000,7764
+Farm Scale,Complete Mix,0,1,0,0,0,550,0,0,1,1,7000000,7999
+Multiple Farm/Facility,Complete Mix,0,1,0,0,0,500,0,0,1,1,,5614
+Farm Scale,Complete Mix,0,1,0,0,0,300,0,0,1,1,3700000,4730
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,650,0,0,0,0,888000,2069
+Farm Scale,Complete Mix,0,1,0,0,0,600,0,0,1,1,3500000,3501
+Farm Scale,Complete Mix,0,0,1,0,0,0,1000000,0,0,0,,33238
+Research,Complete Mix,0,1,0,0,0,145,0,0,0,0,,1075
+Farm Scale,Complete Mix,0,1,0,0,0,1500,0,0,1,1,8584800,9373
+Farm Scale,Complete Mix,0,1,0,0,0,1000,0,0,0,0,,2626
+Multiple Farm/Facility,Complete Mix,0,1,0,1,0,450,0,32000,1,0,657000,5275
+Farm Scale,Complete Mix,0,1,0,0,0,3200,0,0,0,0,6500000,13267
+Farm Scale,Complete Mix,0,1,0,0,0,360,0,0,1,1,2600000,2559
+Farm Scale,Complete Mix,0,1,0,0,0,3100,0,0,0,0,223380,8308
+Farm Scale,Complete Mix,0,1,0,0,0,3050,0,0,0,0,11913600,29767
+Multiple Farm/Facility,Complete Mix,0,1,0,1,0,3800,0,18000,1,0,3138817,31395
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3830,0,0,1,0,,32071
+Multiple Farm/Facility,Complete Mix,0,1,0,0,0,1070,0,0,1,0,59831,2533
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,5520,0,0,1,0,15859980,49625
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,900,0,0,0,0,1226400,3010
+Farm Scale,Complete Mix,0,1,0,0,0,3000,0,0,0,0,4839900,24418
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,3000,0,0,0,0,2803200,9073
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,7665,0,0,0,0,15859980,61711
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,6300,0,0,0,0,15859980,54802
+Farm Scale,Induced Blanket Reactor,1,0,0,0,2500,0,0,0,0,0,4467600,5962
+Research,Complete Mix,0,0,0,1,0,0,0,20,0,0,,4
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,31795,0,0,,32329
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,44160,0,0,,44902
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,32000,0,0,,32538
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,14150,0,0,,14388
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,28800,0,0,,29284
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,60000,0,0,,61008
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,24700,0,0,,22306
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,24700,0,0,,25115
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,21000,0,0,,21353
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,79500,0,0,,80836
+Farm Scale,Complete Mix,0,0,1,0,0,0,270000,0,0,0,558450,392
+Farm Scale,Complete Mix,0,0,1,0,0,0,84000,0,0,0,876000,647
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,13000,0,0,88700,3538
+Farm Scale,Fixed Film,0,1,0,0,0,450,0,0,0,0,306600,3368
+Farm Scale,Induced Blanket Reactor,0,1,0,0,0,750,0,0,0,0,372300,4952
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,8000,1,1,,2441
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,12000,0,0,341000,5973
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,15780,0,0,275000,7725
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,17280,0,0,483990,8596
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,21000,0,0,,11430
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,19584,0,0,744600,9889
+Multiple Farm/Facility,Covered Lagoon,0,0,0,1,0,0,0,60000,0,0,,64002
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,84000,0,0,4380000,43197
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,60000,0,0,7008000,33758
+Farm Scale,Mixed Plug Flow,0,0,0,1,0,0,0,56000,1,0,4467600,29956
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,16000,0,0,876000,3270
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,520,0,0,0,0,613000,1687
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1800,0,0,0,0,1068720,5051
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1700,0,0,1,0,3285000,6473
+Centralized/Regional,Complete Mix,0,1,0,0,0,1255,0,0,1,1,4624000,6424
+Farm Scale,Covered Lagoon,0,1,0,0,0,1100,0,0,0,0,,8013
+Farm Scale,Covered Lagoon,0,1,0,0,0,400,0,0,0,0,,2914
+Farm Scale,Complete Mix,0,0,1,0,0,0,130000,0,1,0,,5011
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,1500,0,0,0,0,,3803
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,1200,0,0,0,0,1305240,9195
+Farm Scale,Covered Lagoon,0,1,0,0,0,800,0,0,0,0,3723000,8613
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2250,0,0,0,0,4467600,19683
+Farm Scale,Complete Mix,0,1,0,0,0,2300,0,0,1,0,2803200,5753
+Farm Scale,Covered Lagoon,0,1,0,0,0,700,0,0,0,0,,5099
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2000,0,0,0,0,3350700,17032
+Farm Scale,Complete Mix,0,1,0,0,0,1650,0,0,1,1,4360027,7160
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,1100,0,0,1,0,,10062
+Farm Scale,Complete Mix,0,1,0,0,0,1750,0,0,1,1,3626640,15423
+Farm Scale,Complete Mix,0,1,0,0,0,1760,0,0,1,1,3092280,5356
+Farm Scale,Covered Lagoon,0,1,0,0,0,1650,0,0,0,0,,12020
+Farm Scale,Complete Mix,0,1,0,0,0,650,0,0,1,1,1717000,2820
+Farm Scale,Complete Mix,0,1,0,0,0,1350,0,0,1,0,2102400,4358
+Farm Scale,Complete Mix,0,1,0,0,0,625,0,0,0,0,381240,1648
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,1800,0,0,0,0,1226400,12003
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3775,0,0,0,0,6615552,13867
+Research,Horizontal Plug Flow,0,1,0,0,0,505,0,0,1,1,342654,1288
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,850,0,0,0,0,2102400,3581
+Multiple Farm/Facility,Complete Mix,0,1,0,0,0,2000,0,0,1,1,16910000,17376
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,1900,0,0,1,0,420480,3672
+Farm Scale,Complete Mix,0,1,0,0,0,350,0,0,0,0,876000,1482
+Farm Scale,Complete Mix,0,1,0,0,0,1350,0,0,1,0,1396096,4233
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3500,0,0,0,0,7446000,30990
+Farm Scale,Covered Lagoon,0,1,0,0,0,1050,0,0,0,0,,7649
+Farm Scale,Complete Mix,0,1,0,0,0,0,0,0,0,0,,2522
+Farm Scale,Complete Mix,0,1,0,0,0,1800,0,0,1,1,2102400,5502
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3350,0,0,0,0,3100000,25632
+Farm Scale,Covered Lagoon,0,1,0,0,0,1000,0,0,0,0,,7267
+Farm Scale,Complete Mix,0,1,0,0,0,1810,0,0,1,1,2978400,7006
+Centralized/Regional,Complete Mix,0,1,0,0,0,0,0,0,1,0,8760000,6554
+Centralized/Regional,Complete Mix,0,1,0,0,0,0,0,0,1,0,5000000,3741
+Centralized/Regional,Complete Mix,0,1,0,0,0,1300,0,0,1,0,8600000,9865
+Centralized/Regional,Complete Mix,0,1,0,0,0,0,0,0,1,1,5256000,3932
+Centralized/Regional,Complete Mix,0,1,0,0,0,0,0,0,1,0,7804000,5839
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,14000,1,1,7008000,7531
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2100,0,0,0,0,2860000,17357
+Farm Scale,Mixed Plug Flow,0,0,1,0,0,0,600000,0,1,0,7008000,22941
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,53000,0,0,,8573
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2500,0,0,1,0,5700000,20734
+Multiple Farm/Facility,Mixed Plug Flow,0,1,0,0,0,2000,0,0,1,0,8234400,19337
+Farm Scale,Anaerobic Sequencing Batch Reactor,0,1,0,0,0,1027,0,0,0,0,1500000,6444
+Farm Scale,Anaerobic Sequencing Batch Reactor,0,1,0,0,0,750,0,0,0,0,1228590,4769
+Farm Scale,Anaerobic Sequencing Batch Reactor,0,1,0,0,0,2540,0,0,0,0,3100000,17351
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,24900,0,0,0,0,42048000,227236
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,700,0,0,1,0,,3519
+Farm Scale,Complete Mix,0,1,0,0,0,1600,0,0,1,1,3225000,6613
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,425,0,0,1,1,334719,1366
+Farm Scale,Complete Mix,0,1,0,0,0,1225,0,0,1,1,1025303,3114
+Farm Scale,Fixed Film,0,1,0,0,0,150,0,0,0,0,,1081
+Centralized/Regional,Unknown or Unspecified,0,1,0,0,0,1800,0,0,0,0,,31623
+Farm Scale,Vertical Plug Flow,0,0,0,1,0,0,0,2400,0,0,163812,515
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,400,0,0,1,1,157108,1168
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,650,0,0,0,0,1103760,2358
+Farm Scale,Complete Mix,0,1,0,0,0,800,0,0,1,1,1100000,2706
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,600,0,0,0,0,1200000,2473
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,28000,1,1,1340280,11477
+Farm Scale,Complete Mix,0,1,0,0,0,350,0,0,0,0,480000,1278
+Farm Scale,Complete Mix,0,1,0,0,0,700,0,0,1,1,1226400,2303
+Farm Scale,Complete Mix,0,1,0,0,0,915,0,0,1,0,833000,2921
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,2300,0,0,0,0,4467600,19920
+Farm Scale,Complete Mix,0,1,0,0,0,500,0,0,1,0,730000,1859
+Farm Scale,Complete Mix,1,0,0,1,130,0,0,8800,1,1,262800,1124
+Farm Scale,Complete Mix,0,1,0,0,0,400,0,0,1,1,1051200,3670
+Farm Scale,Complete Mix,0,1,0,0,0,800,0,0,0,0,1261440,3044
+Farm Scale,Complete Mix,0,1,0,0,0,600,0,0,0,0,395259,1871
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,8800,0,0,66430,1488
+Farm Scale,Complete Mix,0,1,0,0,0,470,0,0,1,1,164169,1357
+Farm Scale,Complete Mix,0,1,0,0,0,320,0,0,1,1,1552452,1445
+Farm Scale,Horizontal Plug Flow,0,0,0,1,0,0,0,2000,1,0,967980,1600
+Farm Scale,Complete Mix,0,1,0,0,0,787,0,0,1,1,1401600,3115
+Farm Scale,Horizontal Plug Flow,0,1,0,0,0,650,0,0,0,0,1600000,2904
+Farm Scale,Complete Mix,0,1,1,1,0,250,33000,4400,1,1,879666,3007
+Farm Scale,Covered Lagoon,0,1,0,0,0,790,0,0,0,0,483990,1314
+Farm Scale,Complete Mix,0,1,0,0,0,400,0,0,1,0,688373,1565
+Farm Scale,Complete Mix,0,1,0,0,0,2000,0,0,1,1,3354762,7761
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,19200,0,0,1340280,10271
+Farm Scale,Horizontal Plug Flow,0,0,1,0,0,0,150000,0,0,0,4020840,8112
+Farm Scale,Plug Flow,0,1,0,0,0,2400,0,0,0,0,2792250,8200
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,20000,0,0,,10885
+Farm Scale,Covered Lagoon,0,0,0,1,0,0,0,216000,0,0,,117562
+Farm Scale,Induced Blanket Reactor,0,0,0,1,0,0,0,1300,0,0,297840,411
+Multiple Farm/Facility,Unknown or Unspecified,0,0,0,1,0,0,0,110000,0,0,23827200,63930
+Farm Scale,Induced Blanket Reactor,0,1,0,0,0,750,0,0,0,0,368580,5685
+Farm Scale,Induced Blanket Reactor,0,1,0,0,0,1200,0,0,0,0,823440,3340
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1200,0,0,0,0,3350700,6013
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2500,0,0,1,0,4204800,6413
+Farm Scale,Complete Mix,0,1,0,0,0,1700,0,0,1,1,1600000,12152
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1200,0,0,0,0,2700000,9753
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1200,0,0,0,0,3350700,4895
+Farm Scale,Complete Mix,0,1,0,0,0,450,0,0,1,0,723000,1436
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,950,0,0,1,0,780000,2474
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1050,0,0,1,0,1800000,3436
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,45,0,0,1,0,,147
+Farm Scale,Complete Mix,0,1,0,0,0,350,0,0,0,0,223380,864
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,850,0,0,0,0,1675350,2945
+Farm Scale,Modular Plug Flow,0,1,0,0,0,120,0,0,0,0,87600,304
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,750,0,0,1,1,1750000,2802
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,500,0,0,1,1,788400,1585
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1200,0,0,0,0,1400000,3435
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1950,0,0,1,0,3500000,6499
+Farm Scale,Complete Mix,0,1,0,0,0,450,0,0,0,0,1340280,1898
+Farm Scale,Complete Mix,0,1,0,0,0,0,0,0,1,1,,1681
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1200,0,0,1,1,1642500,3617
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2500,0,0,1,1,6175800,22704
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2000,0,0,1,1,6175800,19087
+Multiple Farm/Facility,Mixed Plug Flow,0,1,0,0,0,1500,0,0,1,1,6175800,15470
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,4000,0,0,1,0,9881280,36326
+Multiple Farm/Facility,Mixed Plug Flow,0,1,0,0,0,2000,0,0,1,1,3705480,17239
+Multiple Farm/Facility,Mixed Plug Flow,0,1,0,0,0,1500,0,0,1,1,8234400,17010
+Farm Scale,Complete Mix,0,1,0,0,0,800,0,0,1,1,2803200,4039
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1500,0,0,1,1,4467600,14192
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,120,0,0,1,0,481800,643
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1250,0,0,1,1,2233800,10720
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1250,0,0,0,0,2233800,10720
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1050,0,0,1,0,,9027
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3900,0,0,1,0,6307200,32952
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,1750,0,0,0,0,1615684,13878
+Farm Scale,Complete Mix,0,1,0,0,0,1900,0,0,1,0,1801515,4615
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3000,0,0,0,0,5956800,26175
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,3500,0,0,0,0,4432560,11557
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2000,0,0,0,0,4800000,8300
+Centralized/Regional,Complete Mix,0,1,0,0,0,2000,0,0,0,0,16000000,26449
+Centralized/Regional,Complete Mix,0,1,0,0,0,2500,0,0,1,1,17520000,31206
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2100,0,0,1,0,4231080,8110
+Farm Scale,Complete Mix,0,1,0,0,0,850,0,0,1,0,0,6153
+Farm Scale,Covered Lagoon,0,1,0,0,0,800,0,0,1,0,,5809
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,850,0,0,1,0,876051,2657
+Farm Scale,Complete Mix,0,1,0,0,0,3900,0,0,1,0,6000000,32722
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2400,0,0,0,0,10573320,13561
+Farm Scale,Complete Mix,0,1,0,1,0,1900,0,4000,0,0,3300000,6210
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,4000,0,0,1,1,6364834,14180
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,4000,0,0,1,1,2128505,11011
+Farm Scale,Complete Mix,0,1,0,0,0,650,0,0,0,0,,1530
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2000,0,0,0,0,8760000,21033
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,4000,0,0,0,0,4467600,32300
+Centralized/Regional,Complete Mix,0,1,0,0,0,1300,0,0,1,0,,7002
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,9100,0,0,1,0,,64014
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,2000,0,0,0,0,3705360,17251
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,4200,0,0,0,0,5700000,34670
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,4000,0,0,0,0,5286660,6941
+Centralized/Regional,Mixed Plug Flow,0,1,0,0,0,3000,0,0,0,0,,11814
+Multiple Farm/Facility,Mixed Plug Flow,0,1,0,0,0,2000,0,0,0,0,2992944,6948
+Farm Scale,Complete Mix,0,1,0,0,0,810,0,0,0,0,2000000,7360
+Farm Scale,Unknown or Unspecified,0,1,0,0,0,200,0,0,0,0,,471
+Farm Scale,Complete Mix,0,1,0,0,0,8500,0,0,0,0,12491760,70880
+Research,Other Digester Type,0,1,0,0,0,0,0,0,1,1,2320000,1736
+Farm Scale,Complete Mix,0,1,0,0,0,1450,0,0,0,0,6701400,15511
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,825,0,0,0,0,1675350,3196
+Farm Scale,Mixed Plug Flow,0,1,0,0,0,550,0,0,0,0,4467600,4637
+Farm Scale,Complete Mix,0,1,0,0,0,880,0,0,1,1,0,2072
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,10000,0,0,595680,1117
+Farm Scale,Complete Mix,0,0,0,1,0,0,0,36000,0,0,1340280,5315
